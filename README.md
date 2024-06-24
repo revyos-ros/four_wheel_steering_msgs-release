@@ -1,3 +1,26 @@
+## four_wheel_steering_msgs (jazzy) - 2.0.1-7
+
+The packages in the `four_wheel_steering_msgs` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy four_wheel_steering_msgs --override-release-repository-push-url git@github.com:revyos-ros/four_wheel_steering_msgs-release` on `Mon, 24 Jun 2024 03:49:10 -0000`
+
+The `four_wheel_steering_msgs` package was released.
+
+Version of package(s) in repository `four_wheel_steering_msgs`:
+
+- upstream repository: https://github.com/ros-drivers/four_wheel_steering_msgs.git
+- release repository: https://github.com/revyos-ros/four_wheel_steering_msgs-release.git
+- rosdistro version: `2.0.1-6`
+- old version: `2.0.1-6`
+- new version: `2.0.1-7`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## four_wheel_steering_msgs (rolling) - 2.0.1-1
 
 The packages in the `four_wheel_steering_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --rosdistro rolling --track rolling four_wheel_steering_msgs --edit` on `Wed, 21 Jul 2021 09:30:56 -0000`
